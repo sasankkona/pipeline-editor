@@ -36,12 +36,12 @@
 ## Demo Link
 
 The application is deployed and accessible at:  
-[Demo Link]()  
+[Demo Link](https://pipeline-editor-vert.vercel.app/)  
 
 
 ## Screen Recordings & Screenshots
 
-![Pipeline Editor Screenshot](src/assets/Screenshot 2025-07-04 at 7.11.41 AM.png)
+![Pipeline Editor Screenshot](./src/assets/Screenshot%202025-07-04%20at%207.11.41 AM.png)
 
 ## Challenges Faced
 
